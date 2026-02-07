@@ -1,0 +1,47 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
+
+
+/* Estilso generales */
+
+
+h1, h2, h3{
+ font-size: 20px;
+}
+
+/* ------Estilos del header---- */
+
+header{
+    background-color:rgb(68, 94, 156);
+}
+
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(100, 108, 174);
+    background-color: white;
+}
+
+
+/* -----------MAIN------- */
+
+main{
+    background-color: rgb(164, 160, 194);
+}
+
+
+
+figure img{
+    width: 150px;
+}
+
+
+/* Foooter */
+footer{
+    background-color: beige;
+}
